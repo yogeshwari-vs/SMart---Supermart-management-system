@@ -1,2 +1,2 @@
-# SMart---Supermart-management-system
+# SMart-Supermart-management-system
 Database management system
